@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Bharathm7/frontend/static/css/main.483b3830.chunk.css",
+    "main.js": "/Bharathm7/frontend/static/js/main.920193d7.chunk.js",
+    "main.js.map": "/Bharathm7/frontend/static/js/main.920193d7.chunk.js.map",
+    "runtime-main.js": "/Bharathm7/frontend/static/js/runtime-main.39faeab5.js",
+    "runtime-main.js.map": "/Bharathm7/frontend/static/js/runtime-main.39faeab5.js.map",
+    "static/js/2.e7940d1f.chunk.js": "/Bharathm7/frontend/static/js/2.e7940d1f.chunk.js",
+    "static/js/2.e7940d1f.chunk.js.map": "/Bharathm7/frontend/static/js/2.e7940d1f.chunk.js.map",
+    "index.html": "/Bharathm7/frontend/index.html",
+    "precache-manifest.fcb6727cdedb5b1b8cbffcdbd2542796.js": "/Bharathm7/frontend/precache-manifest.fcb6727cdedb5b1b8cbffcdbd2542796.js",
+    "service-worker.js": "/Bharathm7/frontend/service-worker.js",
+    "static/css/main.483b3830.chunk.css.map": "/Bharathm7/frontend/static/css/main.483b3830.chunk.css.map",
+    "static/js/2.e7940d1f.chunk.js.LICENSE.txt": "/Bharathm7/frontend/static/js/2.e7940d1f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39faeab5.js",
+    "static/js/2.e7940d1f.chunk.js",
+    "static/css/main.483b3830.chunk.css",
+    "static/js/main.920193d7.chunk.js"
+  ]
+}
